@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+body{
+    font-size: 18px;
+    
+    background-color: #aaa;
+   background-image:url(./img/landscape-g7fa6061cd_1920.jpg);
+  
+   background-size: cover;
+   
+}
